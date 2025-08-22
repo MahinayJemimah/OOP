@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\mahinay\Mahinay_EncapsulationUserInput\Mahinay_EncapsulationUserInput\obj\Debug\Mahinay_EncapsulationUserInput.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\mahinay\Mahinay_EncapsulationUserInput\Mahinay_EncapsulationUserInput\obj\Debug\Mahinay_EncapsulationUserInput.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\mahinay\Mahinay_EncapsulationUserInput\Mahinay_EncapsulationUserInput\bin\Debug\Mahinay_EncapsulationUserInput.exe.config
+C:\Users\ACT-STUDENT\Desktop\mahinay\Mahinay_EncapsulationUserInput\Mahinay_EncapsulationUserInput\bin\Debug\Mahinay_EncapsulationUserInput.exe
+C:\Users\ACT-STUDENT\Desktop\mahinay\Mahinay_EncapsulationUserInput\Mahinay_EncapsulationUserInput\bin\Debug\Mahinay_EncapsulationUserInput.pdb
+C:\Users\ACT-STUDENT\Desktop\mahinay\Mahinay_EncapsulationUserInput\Mahinay_EncapsulationUserInput\obj\Debug\Mahinay_EncapsulationUserInput.exe
+C:\Users\ACT-STUDENT\Desktop\mahinay\Mahinay_EncapsulationUserInput\Mahinay_EncapsulationUserInput\obj\Debug\Mahinay_EncapsulationUserInput.pdb
