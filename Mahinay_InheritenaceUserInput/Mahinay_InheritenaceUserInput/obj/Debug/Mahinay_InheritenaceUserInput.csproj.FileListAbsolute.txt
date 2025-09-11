@@ -1,0 +1,7 @@
+C:\Users\mahin\OneDrive\Desktop\Mahinay_InheritenaceUserInput\Mahinay_InheritenaceUserInput\obj\Debug\Mahinay_InheritenaceUserInput.csproj.AssemblyReference.cache
+C:\Users\mahin\OneDrive\Desktop\Mahinay_InheritenaceUserInput\Mahinay_InheritenaceUserInput\obj\Debug\Mahinay_InheritenaceUserInput.csproj.CoreCompileInputs.cache
+C:\Users\mahin\OneDrive\Desktop\Mahinay_InheritenaceUserInput\Mahinay_InheritenaceUserInput\bin\Debug\Mahinay_InheritenaceUserInput.exe.config
+C:\Users\mahin\OneDrive\Desktop\Mahinay_InheritenaceUserInput\Mahinay_InheritenaceUserInput\bin\Debug\Mahinay_InheritenaceUserInput.exe
+C:\Users\mahin\OneDrive\Desktop\Mahinay_InheritenaceUserInput\Mahinay_InheritenaceUserInput\bin\Debug\Mahinay_InheritenaceUserInput.pdb
+C:\Users\mahin\OneDrive\Desktop\Mahinay_InheritenaceUserInput\Mahinay_InheritenaceUserInput\obj\Debug\Mahinay_InheritenaceUserInput.exe
+C:\Users\mahin\OneDrive\Desktop\Mahinay_InheritenaceUserInput\Mahinay_InheritenaceUserInput\obj\Debug\Mahinay_InheritenaceUserInput.pdb
